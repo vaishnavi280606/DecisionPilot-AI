@@ -1,0 +1,25 @@
+# Environments
+.env
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+backend/.venv/
+backend/chroma_data/
+backend/*.db
+
+# Node
+node_modules/
+frontend/dist/
+frontend/node_modules/
+.eslintcache
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
